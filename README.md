@@ -1,7 +1,9 @@
 # Evaluating SHAP-based fault localization against documented root causes and simple baselines in the Tennessee Eastman Process
 
 Code to reproduce the results of the paper *"Evaluating SHAP-Based Fault Localization Against Documented Root
-Causes and Simple Baselines in the Tennessee Eastman Process"* (Imran, He, Zaidi, Anwar and Hu).
+Causes and Simple Baselines in the Tennessee Eastman Process"* (Imran, Zaidi,).
+
+https://doi.org/10.5281/zenodo.24409648
 
 The study scores SHAP channel rankings of five fault classifiers against the documented root-cause channels of
 12 Tennessee Eastman Process (TEP) faults, against an exact chance model and against rankings computed without
