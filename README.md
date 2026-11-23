@@ -102,7 +102,7 @@ Citation
 
 If you use this code, please cite the paper (reference to be added on publication) and the archived code:
 
-Imran, M., He, Z., Zaidi, F. S., Anwar, S. M., & Hu, X. (2026). Code for "Evaluating SHAP-Based Fault Localization Against Documented Root Causes and Simple Baselines in the Tennessee Eastman Process" (v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24409648
+Imran, M., He, Z., Zaidi, F. S., Anwar, S. M., & Hu, X. (2026). Code for "Evaluating SHAP-Based Fault Localization Against Documented Root Causes and Simple Baselines in the Tennessee Eastman Process" Zenodo. https://doi.org/10.5281/zenodo.24409648
 
 License
 
